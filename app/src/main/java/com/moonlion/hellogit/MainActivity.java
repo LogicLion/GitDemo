@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         System.out.println("首次提交");
         System.out.println("二次提交");
+        System.out.println("在另一个项目提交");
     }
 }
